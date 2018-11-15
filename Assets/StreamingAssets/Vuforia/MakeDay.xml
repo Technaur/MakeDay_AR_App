@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="egg_green_scaled" size="1.000000 0.714844" />
+    <ImageTarget name="egg_blue_scaled" size="1.000000 0.718750" />
+    <ImageTarget name="offerzen_astrosloth_scaled" size="1.000000 0.715820" />
+    <ImageTarget name="drone_scaled" size="1.000000 0.718750" />
+    <ImageTarget name="astronaut_scaled" size="1.000000 0.720703" />
+  </Tracking>
+</QCARConfig>
